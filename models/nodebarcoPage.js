@@ -1,0 +1,4 @@
+NodebracoPage.prototype.Children = function()
+{
+  
+}
