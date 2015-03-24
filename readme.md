@@ -2,7 +2,7 @@ Experiments/Nodebraco
 =====================
 *this is a total experiment, not close to production ready.*
 
-I am not sure this will ever become a 'thing' - it's more a see what would happen if. It is just an experiment and a tool for me to do some learning in NodeJs / Express , but if you are better at that then me, I would love to hear your thoughts, on how it might do stuff better     
+**I am not sure this will ever become a 'thing' - it's more a see what would happen if. It is just an experiment and a tool for me to do some learning in NodeJs / Express , but if you are better at that then me, I would love to hear your thoughts, on how it might do stuff properly**     
 
 A frontend renderer for the umbraco cache file written in NodeJs
 
